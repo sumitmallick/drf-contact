@@ -5,14 +5,6 @@
 `Django REST Framework - Contact` is a Django App for creating user contacts. It's view are based upon
 `Django REST Framework's GenericAPIView` and hence it contains a RESTful API views also.
 
-
-I'll like to mention following names for certain contributions:
-
-- **[Civil Machines Technologies Private Limited](https://github.com/civilmahines)**: For providing me platform and
-funds for research work. This project is hosted currently with `CMT` only.
-- [Aditya Gupta](https://github.com/ag93999): Project Developer. Developed & maintained the code. Author of the project.
-- [Himanshu Shankar](https://github.com/iamhssingh): Ideation & Project Manager. Currently maintaining the project
-
 #### Installation
 
 - Download and Install via `pip`
